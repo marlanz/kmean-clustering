@@ -17,7 +17,7 @@ cd your-repo-name
 ```bash
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
-venv\Scripts\activate
+venv\Scripts\activate  # On Windows
 ```
 3. **Run main script**
 ```bash
